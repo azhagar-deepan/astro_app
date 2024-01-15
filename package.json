@@ -3,9 +3,9 @@
     "version": "1.0.0",
     "description": "",
     "scripts": {
-        "build": "flask db upgrade",  // Adjust this based on your Flask-Migrate setup
+        "build": "flask db upgrade",
         "test": "echo \"No test specified\" && exit 1",
-        "start": "python index.py"  // Assuming your main Python file is named index.py
+        "start": "python app.py"
     },
     "repository": {
         "type": "git",
