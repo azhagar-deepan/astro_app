@@ -3,8 +3,7 @@
     "version": "1.0.0",
     "description": "",
     "scripts": {
-        "build": "flask db upgrade",
-        "test": "echo \"No test specified\" && exit 1",
+     
         "start": "python app.py"
     },
     "repository": {
